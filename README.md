@@ -96,8 +96,7 @@ npm run dev
 
 ## 🌐 Live Preview
 
-> Coming soon... (Deploy on Vercel / Netlify)
-
+https://ai-e-commerce-three.vercel.app/
 ---
 
 ## 🎨 Design Highlights
@@ -130,8 +129,8 @@ npm run dev
 
 **Your Name**
 
-* GitHub: https://github.com/your-username
-* Portfolio: your-portfolio-link
+* GitHub: https://github.com/Khalettt
+* Portfolio: https://github.com/Khalettt
 
 ---
 
